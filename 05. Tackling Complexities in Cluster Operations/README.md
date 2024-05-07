@@ -1,4 +1,4 @@
-# Module-05: Advanced Kubernetes Concepts
+# Module-05: Mastering Kubernetes: Tackling Complexities in Cluster Operations
 
 ## Interview Questions:
 
