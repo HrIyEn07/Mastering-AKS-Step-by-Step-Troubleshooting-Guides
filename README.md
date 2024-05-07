@@ -1,6 +1,6 @@
 # Hello there,
 
-## Welcome to Mastering AKS Troubleshooting Step-by-Step Guides!
+## Welcome to Mastering AKS: Step-by-Step Troubleshooting Guides!
 
 My name is Hriyen, with over 7+ years of experience in the IT industry. Throughout my career, I've gained expertise and earned some major certifications such as AZ-104, AZ-500, SAA-C02, ENA, and AZ-400, among others.
 
